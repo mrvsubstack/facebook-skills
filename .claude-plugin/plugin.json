@@ -1,0 +1,20 @@
+{
+  "name": "facebook-skills",
+  "description": "8 Claude skills for Facebook: post writer, content planner, engagement drafter, page optimizer, hook extractor, repurposer, humanizer, plus a Postiz publisher that schedules approved posts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mr.V",
+    "url": "https://github.com/mrvsubstack"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mrvsubstack/facebook-skills",
+  "keywords": [
+    "facebook",
+    "social-media",
+    "marketing",
+    "content",
+    "claude-skills",
+    "postiz",
+    "scheduling"
+  ]
+}
